@@ -11,7 +11,7 @@ Install dependencies and create your own `.env` file and add your own api key
 ```bash
   npm install
 
-  npm run devv
+  npm run dev
 ```
 
 ## Authors
